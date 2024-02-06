@@ -1,4 +1,4 @@
-# Year2_module_14
+# Year2_Module_14
 
 Написать линейную модель при помощи библиотеки sklearn. Для векторизации текста использовать TfidfVectorizer, а в качестве модели — LogisticRegression.
 
